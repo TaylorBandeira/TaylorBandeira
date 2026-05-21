@@ -1,4 +1,13 @@
-👨‍💻  - Olá! Eu me chamo Taylor. <br>
-💻 - E estudante de Engenharia De Computação (1/5) - FURG<br>
+<table>
+  <tr>
+    <td>
 
-<img src="homem aranha 2.png" width="300" align="right">
+🎓 - Olá! Eu me chamo Taylor.  
+💻 - É estudante de Engenharia De Computação (1/5) - FURG
+
+   </td>
+   <td>
+      <img src="./assets/homem aranha 2.png" width="180px">
+   </td>
+  </tr>
+</table>
