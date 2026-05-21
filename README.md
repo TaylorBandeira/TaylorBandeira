@@ -7,7 +7,7 @@
 
    </td>
    <td>
-      <img src="./assets/homem aranha 2.png" width="180px">
+     <img src="./homem aranha 2.png" width="180px">
    </td>
   </tr>
 </table>
