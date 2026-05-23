@@ -3,7 +3,7 @@
     <td>
 
 🎓 - Olá! Eu me chamo Taylor.  
-💻 - É estudante de Engenharia De Computação (1/5) - FURG
+💻 - E estudante de Engenharia De Computação (1/5) - FURG
 
    </td>
    <td>
