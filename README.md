@@ -11,3 +11,5 @@
    </td>
   </tr>
 </table>
+
+![Python](https://img.shields.io/badge/Python-274e70?style=for-the-badge&logo=python&logoColor=white)
