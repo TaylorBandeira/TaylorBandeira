@@ -10,7 +10,6 @@
      <img src="./homem aranha 2.png" width="180px">
    </td>
   </tr>
-![Python](https://img.shields.io/badge/Python-274e70?style=for-the-badge&logo=python&logoColor=white)
-  
 </table>
 
+![Python](https://img.shields.io/badge/Python-274e70?style=for-the-badge&logo=python&logoColor=white)
